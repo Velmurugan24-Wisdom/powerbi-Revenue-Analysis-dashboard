@@ -8,7 +8,6 @@ This dashboard analyzes sales performance across regions,
 products, and time periods.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](screenshots/overview.png)
 
 ## 📁 Files
 - `Revenue Analysis-dashboard.pbix` — Main Power BI file
